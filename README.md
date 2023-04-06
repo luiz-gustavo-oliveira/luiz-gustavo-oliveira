@@ -1,4 +1,7 @@
-### Hi there 👋
+### bom dia 👋
+
+### perfil com finalidade 
+estudante de informatica na etec bartolomeu  
 
 <!--
 **luiz-gustavo-oliveira/luiz-gustavo-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
