@@ -1,6 +1,6 @@
 ### bom dia 👋
 
-### perfil com finalidade 
+### perfil com finalidade de compartilhar e aprender
 estudante de informatica na etec bartolomeu  
 
 <!--
